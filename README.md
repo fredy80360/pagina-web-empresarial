@@ -1,10 +1,10 @@
-# Business Technology
+# Pagína Web Empresarial
 
 > Soluciones digitales innovadoras para empresas modernas
 
 ## 📋 Descripción
 
-**Business Technology** es una página web empresarial profesional diseñada para una empresa de desarrollo de software. La plataforma presenta servicios de desarrollo web, diseño de interfaces y soluciones tecnológicas, con un diseño responsivo y una experiencia de usuario optimizada.
+**Pagína Web Empresarial** es una página web empresarial profesional diseñada para una empresa de desarrollo de software. La plataforma presenta servicios de desarrollo web, diseño de interfaces y soluciones tecnológicas, con un diseño responsivo y una experiencia de usuario optimizada.
 
 ## ✨ Características principales
 
