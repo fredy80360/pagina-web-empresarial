@@ -1,10 +1,10 @@
-# Pagína Web Empresarial
+# Página Web Empresarial
 
 > Soluciones digitales innovadoras para empresas modernas
 
 ## 📋 Descripción
 
-**Pagína Web Empresarial** es una página web empresarial profesional diseñada para una empresa de desarrollo de software. La plataforma presenta servicios de desarrollo web, diseño de interfaces y soluciones tecnológicas, con un diseño responsivo y una experiencia de usuario optimizada.
+**Página Web Empresarial** es una página web empresarial profesional diseñada para una empresa de desarrollo de software. La plataforma presenta servicios de desarrollo web, diseño de interfaces y soluciones tecnológicas, con un diseño responsivo y una experiencia de usuario optimizada.
 
 ## ✨ Características principales
 
@@ -157,10 +157,10 @@ Este proyecto está bajo licencia MIT. Ver detalles en el archivo LICENSE.
 
 ## 📧 Contacto
 
-- **Nombre de empresa**: Business Technology
-- **Website**: [Tu sitio web]
-- **Email**: contacto@businesstechnology.com
-- **GitHub**: [@tuusuario](https://github.com/tuusuario)
+- **Nombre de empresa**: Pagina Web Empresarial
+- **Website**: (https://jfrivas.com)
+- **Email**: fredyrivas0714@gmail.com
+- **GitHub**: [@JFrivas](https://github.com/JFrivas)
 
 ## 📌 Notas importantes
 
